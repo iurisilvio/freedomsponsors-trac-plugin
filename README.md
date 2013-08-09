@@ -1,0 +1,2 @@
+freedomsponsors-trac-plugin
+===========================
