@@ -1,0 +1,1 @@
+from freedomsponsors_trac import FreedomSponsorsPlugin
